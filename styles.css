@@ -1,5 +1,9 @@
 body {
     margin: 0;
-    background: grey;
+    background: white;
     text-align: center;
+}
+#headerTitle {
+    background-color: rgb(21, 172, 213);
+    color: white;
 }
