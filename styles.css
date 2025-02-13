@@ -1,7 +1,7 @@
 body {
     background: white;
-    text-align: center;
 }
+
 #headerTitle {
     background-color: rgb(21, 172, 213);
     color: white;
@@ -14,5 +14,22 @@ body {
 
 #aboutMe {
     margin-left: 0px;
+    background-color: rgb(21, 172, 213);;
 }
 
+#contactInfo {
+   
+    margin-left: auto;
+}
+
+#aboutMeSection {
+    background-color: rgb(21, 172, 213);
+    border: 3px dotted;
+    color: white;
+}
+
+#contactInfoSection {
+    background-color: rgb(21, 172, 213);
+    border: 3px dotted;
+    color: white;
+}
