@@ -5,11 +5,7 @@
     color: white;
 }
 #projectInfo {
-    margin-top: 25px;
-    background-color: rgb(21, 172, 213);
-    color: white
-}
-#experiences {
+    border: 3px black dotted;
     margin-top: 25px;
     background-color: rgb(21, 172, 213);
     color: white
