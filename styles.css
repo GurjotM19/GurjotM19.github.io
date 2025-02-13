@@ -5,16 +5,22 @@ body {
 #headerTitle {
     background-color: rgb(21, 172, 213);
     color: white;
+    text-align: center;
 }
 
 #projectsHeader{
     background-color: rgb(21, 172, 213);
     color: white;
+    text-align: center;
 }
 
 #aboutMe {
-    margin-left: 0px;
+    text-align: center;
     background-color: rgb(21, 172, 213);;
+}
+
+#contactMe {
+    text-align: center;
 }
 
 #contactInfo {
@@ -24,12 +30,28 @@ body {
 
 #aboutMeSection {
     background-color: rgb(21, 172, 213);
-    border: 3px dotted;
+    border: 3px dotted black;
+    border-bottom: 1px dotted black;
     color: white;
 }
 
 #contactInfoSection {
     background-color: rgb(21, 172, 213);
-    border: 3px dotted;
+    border: 3px dotted black;
     color: white;
+}
+
+#profileImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+}
+
+#nameAge {
+    text-align: center;
+}
+
+#aboutMeInfo {
+    margin-left: auto;
 }
