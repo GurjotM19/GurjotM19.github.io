@@ -1,5 +1,4 @@
 body {
-    margin: 0;
     background: white;
     text-align: center;
 }
@@ -7,3 +6,13 @@ body {
     background-color: rgb(21, 172, 213);
     color: white;
 }
+
+#projectsHeader{
+    background-color: rgb(21, 172, 213);
+    color: white;
+}
+
+#aboutMe {
+    margin-left: 0px;
+}
+
