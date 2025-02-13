@@ -9,7 +9,16 @@
     background-color: rgb(21, 172, 213);
     color: white
 }
+#experiences {
+    margin-top: 25px;
+    background-color: rgb(21, 172, 213);
+    color: white
+}
 
 #someProjects {
+    text-align: center;
+}
+
+#myExperiences {
     text-align: center;
 }
