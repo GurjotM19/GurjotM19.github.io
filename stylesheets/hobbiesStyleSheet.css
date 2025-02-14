@@ -1,3 +1,10 @@
 #pageHeader {
     text-align: center;
 }
+#climbingPics {
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-right: auto;
+    border: 3px dotted black;
+}
