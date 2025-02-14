@@ -1,14 +1,11 @@
 
 #projectsHeader {
     text-align: center;
-    background-color: rgb(21, 172, 213);
-    color: white;
 }
 #projectInfo {
     border: 3px black dotted;
     margin-top: 25px;
-    background-color: rgb(21, 172, 213);
-    color: white
+    
 }
 
 #someProjects {

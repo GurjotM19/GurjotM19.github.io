@@ -3,14 +3,11 @@ body {
 }
 
 #headerTitle {
-    background-color: rgb(21, 172, 213);
-    color: white;
     text-align: center;
 }
 
 #aboutMe {
     text-align: center;
-    background-color: rgb(21, 172, 213);;
 }
 
 #contactMe {
@@ -23,16 +20,12 @@ body {
 }
 
 #aboutMeSection {
-    background-color: rgb(21, 172, 213);
     border: 3px dotted black;
     border-bottom: 1px dotted black;
-    color: white;
 }
 
 #contactInfoSection {
-    background-color: rgb(21, 172, 213);
     border: 3px dotted black;
-    color: white;
 }
 
 #profileImage {
